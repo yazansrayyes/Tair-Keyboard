@@ -3,7 +3,7 @@ The Tair keyboard is a split 72-key fully wireless keyboard with 6x6 column stag
 
 It uses ZMK Firmware (based on Zephyr RTOS) for functionality. This allows the keyboard to operate wirelessly and handle multiple keypresses simultaneously.
 
-![Tair v1](https://raw.githubusercontent.com/yazansrayyes/Tair-Keyboard/blob/main/assets/v1.jpg)
+![Tair v1](https://raw.githubusercontent.com/yazansrayyes/Tair-Keyboard/blob/main/assets/v1.heic)
 
 
 # Flashing Firmware
